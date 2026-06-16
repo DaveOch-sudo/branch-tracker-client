@@ -1,0 +1,6 @@
+{
+  "name": "Branch Tracker",
+  "description": "Multi-Branch Loan Management and Intelligence Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
